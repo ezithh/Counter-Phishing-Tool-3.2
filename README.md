@@ -95,18 +95,6 @@ Supported Keywords
 @RANDOM_UUID: Generates a random UUID.
 
 
-Setup
-Clone the Repository: git clone https://github.com/EwyBoy/Counter-Phishing-Tool-3.2
-Install Dependencies: Ensure you have Python installed. Install necessary dependencies via pip install -r requirements.txt.
-Prepare Form Data: Modify the form_data.json file according to the phishing website's login form fields.
-Run the Script: Execute the script by running python counter_phisher.py.
-Usage
-Enter Phishing Website URL: Provide the URL of the fake phishing website's login portal you want to target.
-Set Number of Threads: Specify the number of threads to be used for targeting.
-Review Results: Examine the console output for potential successful login attempts or error messages indicating unreachable URLs.
-Contributing
-Contributions are encouraged! If you encounter any issues or have ideas for enhancements, feel free to open an issue or submit a pull request.
-
 
 Install Dependencies: Ensure you have Python installed. Install necessary dependencies via pip install -r requirements.txt.
 Prepare Form Data: Modify the form_data.json file according to the phishing website's login form fields.
