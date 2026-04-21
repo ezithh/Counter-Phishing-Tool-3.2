@@ -47,7 +47,7 @@ Supported Keywords
 
 Setup
 
-Clone the Repository: git clone https://github.com/ezithh/Counter Phishing Tool
+Clone the Repository: git clone https://github.com/ezithh/Counter-Phishing-Tool.git
 This project is an offensive and proactive tool designed to disrupt phishing attacks by flooding fake phishing websites' login portals with a deluge of fake user data. It's a tool crafted for cybersecurity professionals to actively combat and mitigate risks associated with phishing attacks.
 
 Table of Contents
