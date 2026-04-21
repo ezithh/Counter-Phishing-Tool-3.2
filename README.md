@@ -27,6 +27,7 @@ Example
   "password": "@RANDOM_PASSWORD",
   "bar": false
 }
+
 Supported Keywords
 @RANDOM_PASSWORD: Generates a random password.
 @RANDOM_EMAIL: Generates a random email address.
@@ -43,7 +44,9 @@ Supported Keywords
 @RANDOM_IP: Generates a random IP address.
 @RANDOM_URL: Generates a random URL.
 @RANDOM_UUID: Generates a random UUID.
+
 Setup
+
 Clone the Repository: git clone https://github.com/ezithh/Counter Phishing Tool
 This project is an offensive and proactive tool designed to disrupt phishing attacks by flooding fake phishing websites' login portals with a deluge of fake user data. It's a tool crafted for cybersecurity professionals to actively combat and mitigate risks associated with phishing attacks.
 
@@ -73,6 +76,7 @@ Example
   "password": "@RANDOM_PASSWORD",
   "bar": false
 }
+
 Supported Keywords
 @RANDOM_PASSWORD: Generates a random password.
 @RANDOM_EMAIL: Generates a random email address.
@@ -89,6 +93,7 @@ Supported Keywords
 @RANDOM_IP: Generates a random IP address.
 @RANDOM_URL: Generates a random URL.
 @RANDOM_UUID: Generates a random UUID.
+
 
 Setup
 Clone the Repository: git clone https://github.com/EwyBoy/Counter-Phishing-Tool-3.2
@@ -113,8 +118,10 @@ Review Results: Examine the console output for potential successful login attemp
 Contributing
 Contributions are encouraged! If you encounter any issues or have ideas for enhancements, feel free to open an issue or submit a pull request.
 
+
 Disclaimer
 This tool is provided as is. I do not take any responsibility for how you choose to use this tool. It is your responsibility to use it responsibly and ethically.
+
 
 License
 This project is licensed under the MIT License
